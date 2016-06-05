@@ -18,3 +18,9 @@
 }
 
 -verbose
+
+-dontwarn org.apache.http.**
+-dontwarn android.net.http.**
+-dontwarn com.android.volley.toolbox.**
+-dontwarn org.codehaus.mojo.animal_sniffer.**
+-dontwarn okio.**
