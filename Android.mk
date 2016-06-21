@@ -30,7 +30,6 @@ LOCAL_STATIC_JAVA_LIBRARIES := \
     android-support-v4 \
     libphonenumber \
     libSudaPinYin \
-    libSudaLocation \
     libSudaSdk \
     libOkHttp \
     libOKIO
